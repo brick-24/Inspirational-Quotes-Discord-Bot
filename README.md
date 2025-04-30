@@ -1,15 +1,20 @@
 # Inspirational-Quotes-Bot
+
 quick install:
+
 ```python
 pip install -r requirements.txt
 ```
-## Todo
-  - update docs in [usage.md](Docs/usage.md)
-  - create documentation for code
-  - create tests
 
-# Structure:
-```
+## Todo
+
+- update docs in [usage.md](Docs/usage.md)
+- create documentation for code
+- create tests
+
+## Structure
+
+```markdown
 Inspirational-Quotes-Bot/
 ├── requirements.txt                          # Lists Python dependencies
 ├── setup.py                                  # Setup for Python dependencies
@@ -35,5 +40,6 @@ Inspirational-Quotes-Bot/
 └── web/                                      # Code for the web version (to implement)
 ```
 
-# Credit
-https://www.pexels.com/search/quote%20background%20blank/?orientation=landscape
+## Credit
+
+[Background image](https://www.pexels.com/search/quote%20background%20blank/?orientation=landscape)
