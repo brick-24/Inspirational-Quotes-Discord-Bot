@@ -12,7 +12,7 @@ pip install -r requirements.txt
 ```
 Inspirational-Quotes-Bot/
 ├── requirements.txt                          # Lists Python dependencies
-├── setup.py                                  # Setup for python dependencies
+├── setup.py                                  # Setup for Python dependencies
 ├── Background-Images/                        # Folder for background images
 │   └── ...
 ├── quotes/                                   # Folder for inspirational quotes
@@ -21,8 +21,8 @@ Inspirational-Quotes-Bot/
 │   └── ... (one file per source)
 ├── src/
 │   ├── __init__.py    
-│   ├── bot.py                                # Script for discord bot
-|   ├── config.py                             # Set password for discord bot
+│   ├── bot.py                                # Script for Discord bot
+|   ├── config.py                             # Set password for Discord bot
 │   └── image_gen.py                          # Main script for the inspirational quotes
 ├── docs/
 │   └── usage.md                              # Documentation for using the bot (to write)
