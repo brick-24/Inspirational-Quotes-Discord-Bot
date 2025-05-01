@@ -1,22 +1,26 @@
 # Inspirational-Quotes-Bot
+
 quick install:
+
 ```python
 pip install -r requirements.txt
 ```
+
 # Examples
 ![image](https://github.com/user-attachments/assets/86241e82-03e1-4aff-b2d5-52749d6e2710)
 
-
 ## Todo
-  - update docs in [usage.md](Docs/usage.md)
-  - create documentation for code
-  - create tests
 
-# Structure:
-```
+- update docs in [usage.md](Docs/usage.md)
+- create documentation for code
+- create tests
+
+## Structure
+
+```markdown
 Inspirational-Quotes-Bot/
 ├── requirements.txt                          # Lists Python dependencies
-├── setup.py                                  # Setup for python dependencies
+├── setup.py                                  # Setup for Python dependencies
 ├── Background-Images/                        # Folder for background images
 │   └── ...
 ├── quotes/                                   # Folder for inspirational quotes
@@ -25,8 +29,8 @@ Inspirational-Quotes-Bot/
 │   └── ... (one file per source)
 ├── src/
 │   ├── __init__.py    
-│   ├── bot.py                                # Script for discord bot
-|   ├── config.py                             # Set password for discord bot
+│   ├── bot.py                                # Script for Discord bot
+|   ├── config.py                             # Set password for Discord bot
 │   └── image_gen.py                          # Main script for the inspirational quotes
 ├── docs/
 │   └── usage.md                              # Documentation for using the bot (to write)
@@ -39,5 +43,6 @@ Inspirational-Quotes-Bot/
 └── web/                                      # Code for the web version (to implement)
 ```
 
-# Credit
-https://www.pexels.com/search/quote%20background%20blank/?orientation=landscape
+## Credit
+
+[Background image](https://www.pexels.com/search/quote%20background%20blank/?orientation=landscape)
