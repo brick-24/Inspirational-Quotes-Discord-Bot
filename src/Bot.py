@@ -30,7 +30,7 @@ async def inspire(message):
         image_file = discord.File(f)
         await message.channel.send(file=image_file)
         
-    # Execute main.py to generate the quote and image
+    # Execute image_gen.py to generate the quote and image
     subprocess.run(['python', './src/image_gen.py'])
 
 
