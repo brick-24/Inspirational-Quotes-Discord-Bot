@@ -1,4 +1,4 @@
-# Inspirational-Quotes-Bot
+# Inspirational-Quotes-Discord-Bot
 
 quick install:
 
@@ -6,14 +6,15 @@ quick install:
 pip install -r requirements.txt
 ```
 
-# Examples
+## Examples
+
 ![image](https://github.com/user-attachments/assets/86241e82-03e1-4aff-b2d5-52749d6e2710)
 
 ## Todo
 
-- update docs in [usage.md](Docs/usage.md)
-- create documentation for code
-- create tests
+- Update docs in [usage.md](Docs/usage.md)
+- Create documentation for code
+- Create tests
 
 ## Structure
 
